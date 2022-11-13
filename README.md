@@ -1,7 +1,8 @@
 Second version of lottery app. 
 Many of people loves lottery games. Lottek is in Poland lottery game. You pick 6 numbers in range 1-49 with hope to draw this number on day of lottery. 
 
-This app simulates on which draw you win main prize in lottery (match six numbers).
+This app simulates on which draw you win main prize in lottery (match six numbers). 
+For run python 3 interpreter is required.
 
 There is no need for installation. Just copy files from repository and run in console by:
 
